@@ -6,3 +6,4 @@ gym
 seaborn
 matplotlib
 optuna==3.0.3
+statsmodels==0.13.5
